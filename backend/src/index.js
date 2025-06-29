@@ -45,8 +45,8 @@ app.use(cors(corsOptions));
 // }
 
 // Serve static files first
-if(process.env.NODE_ENV === "production"){
-  app.use(express.static(path.join(__dirname,"../frontend/dist")));
+if (process.env.NODE_ENV === "production") {
+  app.use(express.static(path.join(__dirname, "../frontend/dist")));
 }
 
 // API routes
@@ -54,9 +54,9 @@ app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
 // Catch-all route for SPA (must come after API routes)
-if(process.env.NODE_ENV === "production"){
-  app.get("*", (req,res) => {
-    res.sendFile(path.join(__dirname,"../frontend","dist","index.html"));
+if (process.env.NODE_ENV === "production") {
+  app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "../frontend", "dist", "index.html"));
   })
 }
 
