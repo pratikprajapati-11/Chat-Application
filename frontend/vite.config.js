@@ -1,13 +1,13 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
-import daisyui from 'daisyui';
-import themes from 'daisyui/theme/object';
+import { defineConfig } from "vite"
+import react from "@vitejs/plugin-react"
+import tailwindcss from "@tailwindcss/vite"
+import daisyui from "daisyui"
 
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [react(), tailwindcss(),daisyui],
-  daisyui:{
-    themes:["light","dark","cupcack","retro","cyberpunk"]
-  }
-})
+
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+    plugins: [react(), tailwindcss(), [daisyui]],
+}
