@@ -43,27 +43,6 @@ The application includes essential chat features such as user signup, login, log
 
 ---
 
-## 🌞 Light Theme
-
-### 🔐 Sign In Page
-![Light Sign In](./Screenshots/LightTheme/SignIn.png)
-
-### 📝 Sign Up Page
-![Light Sign Up](./Screenshots/LightTheme/SignUp.png)
-
-### 🎨 Theme Selection
-![Light Theme Select](./Screenshots/LightTheme/ThemeSelectPage.png)
-
-### 💬 Chat Screen
-![Light Chat 1](./Screenshots/LightTheme/Chat1.png)
-![Light Chat 2](./Screenshots/LightTheme/Chat2.png)
-![Light Chat 3](./Screenshots/LightTheme/Chat3.png)
-
-### 👤 Profile Page
-![Light Profile](./Screenshots/LightTheme/ProfilePage.png)
-
----
-
 ## 🌙 Dark Theme
 
 ### 🔐 Sign In Page
@@ -84,3 +63,28 @@ The application includes essential chat features such as user signup, login, log
 
 ### 👤 Profile Page
 ![Dark Profile](./Screenshots/DarkTheme/ProfilePage.png)
+
+---
+
+## 🌞 Light Theme
+
+### 🔐 Sign In Page
+![Light Sign In](./Screenshots/LightTheme/SignIn.png)
+
+### 📝 Sign Up Page
+![Light Sign Up](./Screenshots/LightTheme/SignUp.png)
+
+### 🎨 Theme Selection
+![Light Theme Select](./Screenshots/LightTheme/ThemeSelectPage.png)
+
+### 💬 Chat Screen
+![Light Chat 1](./Screenshots/LightTheme/Chat1.png)
+![Light Chat 2](./Screenshots/LightTheme/Chat2.png)
+![Light Chat 3](./Screenshots/LightTheme/Chat3.png)
+
+### 👤 Profile Page
+![Light Profile](./Screenshots/LightTheme/ProfilePage.png)
+
+
+
+
