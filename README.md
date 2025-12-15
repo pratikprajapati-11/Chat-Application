@@ -38,3 +38,49 @@ The application includes essential chat features such as user signup, login, log
 - Multiple themes (Light, Dark, and more)
 - Secure authentication using JWT
 - Responsive and modern UI
+
+## 📸 Screenshots
+
+---
+
+## 🌞 Light Theme
+
+### 🔐 Sign In Page
+![Light Sign In](./Screenshots/LightTheme/SignIn.png)
+
+### 📝 Sign Up Page
+![Light Sign Up](./Screenshots/LightTheme/SignUp.png)
+
+### 🎨 Theme Selection
+![Light Theme Select](./Screenshots/LightTheme/ThemeSelectPage.png)
+
+### 💬 Chat Screen
+![Light Chat 1](./Screenshots/LightTheme/Chat1.png)
+![Light Chat 2](./Screenshots/LightTheme/Chat2.png)
+![Light Chat 3](./Screenshots/LightTheme/Chat3.png)
+
+### 👤 Profile Page
+![Light Profile](./Screenshots/LightTheme/ProfilePage.png)
+
+---
+
+## 🌙 Dark Theme
+
+### 🔐 Sign In Page
+![Dark Sign In](./Screenshots/DarkTheme/SignIn.png)
+
+### 📝 Sign Up Page
+![Dark Sign Up](./Screenshots/DarkTheme/SignUp.png)
+
+### 🎨 Theme Selection
+![Dark Theme Select](./Screenshots/DarkTheme/ThemeSelectPage.png)
+
+### 💬 Chat Screen
+![Dark Chat 1](./Screenshots/DarkTheme/Chat1.png)
+![Dark Chat 2](./Screenshots/DarkTheme/Chat2.png)
+![Dark Chat 3](./Screenshots/DarkTheme/Chat3.png)
+![Dark Chat 4](./Screenshots/DarkTheme/Chat4.png)
+![Dark Chat 5](./Screenshots/DarkTheme/Chat5.png)
+
+### 👤 Profile Page
+![Dark Profile](./Screenshots/DarkTheme/ProfilePage.png)
